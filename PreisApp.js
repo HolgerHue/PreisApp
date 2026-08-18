@@ -77,7 +77,7 @@ const EAN_VERSION = EAN_VERSION_MAJOR + "." + String(EAN_VERSION_MINOR).padStart
 
 // Bezugsquelle für appicon.png. Fehlt die Datei im Datenordner, wird sie beim
 // Start einmalig von hier geladen. Leer lassen schaltet den Download ab.
-const ICON_URL = "https://raw.githubusercontent.com/Holger/PreisApp/main/appicon.png";
+const ICON_URL = "https://raw.githubusercontent.com/HolgerHue/PreisApp/main/appicon.png";
 
 
 // ─── PreisApp-Icon ─────────────────────────────────────────────────
