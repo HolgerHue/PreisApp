@@ -1,5 +1,4 @@
 # PreisApp
-# PreisApp
 
 Preisbeobachtung für den Wocheneinkauf – als Scriptable-Skript auf iPhone und iPad.
 
